@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # port = '/dev/ttyUSB1'
-port = '/dev/serial/by-id/usb-VictronEnergy_MK3-USB_Interface_HQ2132VK4JK-if00-port0'
+port = '/dev/serial/by-id/usb-VictronEnergy_MK3-USB_Interface_HQ2245XNCCN-if00-port0'
 
 logging.getLogger('vebus').setLevel(logging.DEBUG)
 
