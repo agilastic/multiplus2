@@ -13,8 +13,8 @@ from requests.auth import HTTPBasicAuth
 from pprint import pprint
 
 
-locale.setlocale(locale.LC_ALL, 'de_DE.utf-8')
-locale.setlocale(locale.LC_NUMERIC, 'de_DE.utf-8')
+#locale.setlocale(locale.LC_ALL, 'de_DE.utf-8')
+#locale.setlocale(locale.LC_NUMERIC, 'de_DE.utf-8')
 
 
 multiplus_max_power  =  3000  # Charge
